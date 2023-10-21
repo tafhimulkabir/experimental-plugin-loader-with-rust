@@ -1,0 +1,14 @@
+[package]
+name            = "plugin_loader"
+version         = "0.0.1"
+edition         = "2021"
+description     = "An Experimental Plugin Loader Writter in Rust"
+author          = [
+        "Tafhimul Kabir <tafhimulkabir@protonmail.com>"
+    ]
+
+[[bin]]
+name    = "pluginloader"
+path    = "app/loader.rs"
+
+[dependencies]
