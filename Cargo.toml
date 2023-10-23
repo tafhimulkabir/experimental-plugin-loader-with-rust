@@ -12,3 +12,4 @@ name    = "pluginloader"
 path    = "app/loader.rs"
 
 [dependencies]
+rusqlite = { version = "0.29.0", features = ["bundled"] }
