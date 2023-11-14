@@ -1,2 +1,2 @@
 ### Experimental Plugin Loader with Rust
-An Experimental Plugin Loader system using Tauri and Rust 
+An Experimental Plugin Loader System using Tauri and Rust 
